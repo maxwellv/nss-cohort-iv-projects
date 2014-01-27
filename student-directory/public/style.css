@@ -1,0 +1,37 @@
+@import url(http://fonts.googleapis.com/css?family=Seymour+One);
+
+
+header {
+  color : blue;
+  border : 3px dotted coral;
+}
+
+header h1{
+  border: 5px dotted coral;
+  margin-left: 10px;
+  font-size:24px;
+}
+
+body {
+background: url(/images/back.gif) repeat;
+font-family: 'Seymour One', sans-serif;
+}
+
+body p {
+  color: teal;
+  font-family: 'Seymour One', sans-serif;
+  letter-spacing: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+  padding: 3px;
+  font-size: 18px;
+
+}
+
+a:hover {
+  color:teal;
+  font-size:18px;
+}
